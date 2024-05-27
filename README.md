@@ -1,1 +1,2 @@
-Đồ án cuối kỳ DSA - PTIT HCM
+Final Term Project of DSA - Post and Telecommunication Institute of Technology HCM City 
+Not completed yet
